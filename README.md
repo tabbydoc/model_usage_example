@@ -1,6 +1,6 @@
 # model_usage_example
-Example how to use pretrained TensorFlow model in Java
+Example how to use a pretrained TensorFlow model in Java
 
-Input parameters:
+Program parameters:
 
 \<path to model> \<path to label_map.pbtxt> \<path to image>
